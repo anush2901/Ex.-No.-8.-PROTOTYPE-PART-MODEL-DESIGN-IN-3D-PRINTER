@@ -49,7 +49,7 @@
 
 
 ### Name:Anushmalika R
-### Register Number:284900881
+### Register Number:24900881
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
